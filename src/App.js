@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          My Key is {process.env.MY_KEY}
           Learn React Netlify
         </a>
       </header>
